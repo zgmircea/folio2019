@@ -1,0 +1,14 @@
+{
+    "defaultExtension": "sass",
+    "path": {
+        "*.sass": {
+            "spaceUnits": 2,
+            "me.drewh.jsbeautify.on_save": false,
+            "linting.collapsed": false
+        }
+    },
+    "wordWrap": false,
+    "spaceUnits": 4,
+    "useTabChar": false,
+    "sass.enabled": false
+}
